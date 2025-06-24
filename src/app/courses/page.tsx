@@ -20,7 +20,7 @@ function page() {
         {courseData.courses.map((course) => (
           <CardContainer key={course.id} className="inter-var mr-6 ml-10 ">
             <CardBody className="bg-gray-50 relative group/card  dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] bg-slate-900/[1] dark:border-white/[0.2] border-white/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border  ">
-              <CardItem
+              <CardItem 
                 translateZ="50"
                 className="text-xl font-bold text-white dark:text-white"
               >
