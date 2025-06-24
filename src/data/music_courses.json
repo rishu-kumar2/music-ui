@@ -1,0 +1,104 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description": "Learn the basics of play with our comprehensive beginner's course.",
+            "price": 1199.99,
+            "instructor": "Hari Das",
+            "isFeatured": true,
+            "image": "/courses/gitar.webp"
+        },
+        {
+            "id": 2,
+            "title": "Piano Player",
+            "slug": "Piano-Player",
+            "description": "Start your musical journey with foundational piano skills taught by expert.",
+            "price": 199.99,
+            "instructor": "Raghav Das ",
+            "isFeatured": true,
+            "image": "/courses/piano.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Mridangam Expert",
+            "slug": "Mridangam-Expert",
+            "description": "Master the Drums with our comprehensive beginner's course.",
+            "price": 199.99,
+            "instructor": "Girdhari Das",
+            "isFeatured": true,
+            "image": "/courses/mridangam.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Drumming Mastery",
+            "slug": "Drumming-Mastery",
+            "description": "Master the Drums with our comprehensive courses covering all skill levels.",
+            "price": 199.99,
+            "instructor": "Krishna Das",
+            "isFeatured": true,
+            "image": "/courses/drums.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Flute Flow",
+            "slug": "Flute-Flow",
+            "description": "Teaching correct posture and finger placement to ensure comfort and prevent strain..",
+            "price": 199.99,
+            "instructor": "Balram Das",
+            "isFeatured": true,
+            "image": "/courses/flute.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Violin Expert",
+            "slug": "Violin-Expert",
+            "description": "Techniques for controlling the bow to produce smooth and varied tones..",
+            "price": 199.99,
+            "instructor": "Anadhi Das",
+            "isFeatured": true,
+            "image": "/courses/violin.jpeg"
+        },
+        {
+            "id": 7,
+            "title": "Sitar Star",
+            "slug": "Sitar-Star",
+            "description": "eaching the melodic frameworks (ragas) of Indian classical music, starting with simple ones like Yaman or Bhairav..",
+            "price": 199.99,
+            "instructor": "Gorsundhar Das",
+            "isFeatured": true,
+            "image": "/courses/sitar.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Tabla Teaching ",
+            "slug": "Tabla-Teaching",
+            "description": "Encouraging students to create variations within the framework of a tala and teaching how to express mood and emotion through rhythm.",
+            "price": 199.99,
+            "instructor": "Narshimha Das",
+            "isFeatured": true,
+            "image": "/courses/tabla.jpg"
+        },
+        {
+            "id":9 ,
+            "title": "Classical Music",
+            "slug": "Classical-Music",
+            "description": "Explore the rich history of classical music from its origins to the present day.",
+            "price": 199.99,
+            "instructor": "Keshav Das",
+            "isFeatured": true,
+            "image": "/courses/classicalmusic.webp"
+        },
+        {
+            "id": 10,
+            "title": " Blues Guitar Techniques",
+            "slug": "Blues-guitar-fundamentals",
+            "description": "Discover the technique of blues guitar to add soul and to your playing.",
+            "price": 199.99,
+            "instructor": "ujjwal Das",
+            "isFeatured": true,
+            "image": "/courses/blues.jpg"
+        }
+    ]
+}
