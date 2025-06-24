@@ -3,7 +3,7 @@ import HeroSection from "@/components/HeroSection";
 import Instructors from "@/components/Instructors";
 import MusicSchoolTestmonials from "@/components/TestmonialCards";
 import Upcoming from "@/components/Upcoming";
-import { h1 } from "framer-motion/client";
+// import { h1 } from "framer-motion/client";
 
 
 export default function Home() {

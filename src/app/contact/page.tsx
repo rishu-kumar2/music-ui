@@ -1,7 +1,7 @@
 'use client'
 import React from "react";
 import { BackgroundBeams } from "@/components/ui/background-beams";
-import { Spotlight } from "@/components/ui/Spotlight";
+// import { Spotlight } from "@/components/ui/Spotlight";
 import { Button } from "@/components/ui/moving-border";
 
 function page() {
@@ -15,7 +15,7 @@ function page() {
                     </h1>
                     <p></p>
                     <p className="text-neutral-500 max-w-lg mx-auto my-2 text-sm text-center relative z-10">
-                        We're here to help with any questions about our courses, program, or events. Reach out and let us know how we can assists you in your musical journey.
+                        We&apos;re here to help with any questions about our courses, program, or events. Reach out and let us know how we can assists you in your musical journey.
                     </p>
                     <input
                         type="email"

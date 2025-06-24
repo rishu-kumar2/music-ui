@@ -1,6 +1,6 @@
 'use client'
 
-import { div } from "framer-motion/m";
+// import { div } from "framer-motion/m";
 
 import { WavyBackground } from "./ui/wavy-background";
 import { AnimatedTooltip } from "./ui/animated-tooltip";
